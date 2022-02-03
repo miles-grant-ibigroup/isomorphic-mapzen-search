@@ -29,7 +29,6 @@ node_modules
 
 # built files
 build/*
-dist/*
 
 # Optional npm cache directory
 .npm

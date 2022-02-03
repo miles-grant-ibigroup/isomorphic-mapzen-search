@@ -2,7 +2,7 @@
   "name": "isomorphic-mapzen-search",
   "version": "999.999.999",
   "description": "Isomorphic Mapzen search for reuse across our libraries.",
-  "main": "./dist/index",
+  "main": "dist/index",
   "module": "dist/isomorphic-mapzen-search.esm.js",
   "typings": "dist/index.d.ts",
   "scripts": {
